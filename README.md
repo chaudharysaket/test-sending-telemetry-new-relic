@@ -1,5 +1,5 @@
 # test-sending-telemetry-new-relic
-Test sending telemetry data to New Relic. This repo provides test Lambda Function code to test out connection to New Relic collctor
+Test sending telemetry data to New Relic. This repo provides test Lambda Function code to test out connection to New Relic collector.
 
 [New Relic document](https://docs.newrelic.com/docs/serverless-function-monitoring/aws-lambda-monitoring/instrument-lambda-function/env-variables-lambda/#Lambda%20extension) has details of the environment variables
 
